@@ -15,21 +15,21 @@
 
 /* SETTINGS */
 :root {
-  --main-color: #BA08FF;
-  --hover-color: #72089B;
+  --main-color: #B700FF;
+  --hover-color: #921EB3;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
   --undefined: 0;
-  --background-image: url('https://i.imgur.com/wRBssoa.jpg');
-  --background-shading: 100%;
+  --background-image: url('https://i.imgur.com/VVckpJr.jpg');
+  --background-shading: 68%;
   --background-position: center left;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
   --background-brightness: 100%;
   --background-contrast: 100%;
-  --background-saturation: 151%;
+  --background-saturation: 119%;
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
@@ -46,13 +46,13 @@
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
   --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
-  --user-modal-position: center;
+  --user-modal-position: Bottom center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
   --user-modal-brightness: 100%;
   --user-modal-contrast: 100%;
-  --user-modal-saturation: 100%;
+  --user-modal-saturation: 129%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
